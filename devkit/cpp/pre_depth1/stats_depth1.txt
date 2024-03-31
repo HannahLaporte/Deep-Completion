@@ -1,0 +1,27 @@
+mean mae: 211.238586 
+min  mae: 1.000000 
+max  mae: 297.903412 
+mean rmse: 401.868195 
+min  rmse: 1.000000 
+max  rmse: 583.818237 
+mean inverse mae: 7.697619 
+min  inverse mae: 1.000000 
+max  inverse mae: 10.554332 
+mean inverse rmse: 12.534326 
+min  inverse rmse: 1.000000 
+max  inverse rmse: 17.951809 
+mean log mae: 0.109015 
+min  log mae: 0.064594 
+max  log mae: 0.153436 
+mean log rmse: 0.184859 
+min  log rmse: 0.094957 
+max  log rmse: 0.274760 
+mean scale invariant log: 3.979414 
+min  scale invariant log: 0.681531 
+max  scale invariant log: 7.277297 
+mean abs relative: 11.860305 
+min  abs relative: 1.000000 
+max  abs relative: 16.935930 
+mean squared relative: 8.943913 
+min  squared relative: 1.000000 
+max  squared relative: 16.636168 
